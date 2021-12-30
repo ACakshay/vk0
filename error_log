@@ -1,0 +1,4 @@
+[13-Sep-2016 18:36:39 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 18432 bytes) in /home/nstindia/public_html/vk0.in/inc/functions.php on line 491
+[13-Sep-2016 18:46:40 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 18432 bytes) in /home/nstindia/public_html/vk0.in/inc/functions.php on line 491
+[19-Sep-2016 12:31:50 Asia/Kolkata] PHP Fatal error:  Call to undefined function getInvestorName() in /home/nstindia/public_html/vk0.in/edit_sub_investor.php on line 31
+[12-Oct-2016 16:50:37 Asia/Kolkata] PHP Fatal error:  Call to undefined function getTransactionDetails() in /home/nstindia/public_html/vk0.in/investor-report.php on line 96

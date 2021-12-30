@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<clients>
+  <client>
+    <clientName>Anshul Jain</clientName>
+    <ClientCode/>
+  </client>
+  <client>
+    <clientName>Suresh Jain</clientName>
+    <ClientCode/>
+  </client>
+  <client>
+    <clientName>Rajesh Rathor</clientName>
+    <ClientCode/>
+  </client>
+  <client>
+    <clientName>Lavish Modi</clientName>
+    <ClientCode>Lm</ClientCode>
+  </client>
+</clients>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<clients>
+  <client>
+    <clientName>Preeti Tiwari</clientName>
+    <ClientCode>PT002</ClientCode>
+  </client>
+  <client>
+    <clientName>jyoti ind.</clientName>
+    <ClientCode>gio</ClientCode>
+  </client>
+  <client>
+    <clientName>pryag coal corp.</clientName>
+    <ClientCode>qwerty</ClientCode>
+  </client>
+  <client>
+    <clientName>shree graphics</clientName>
+    <ClientCode>shr</ClientCode>
+  </client>
+  <client>
+    <clientName>craft and craft</clientName>
+    <ClientCode>cac</ClientCode>
+  </client>
+  <client>
+    <clientName>swastik treaders</clientName>
+    <ClientCode>swt</ClientCode>
+  </client>
+  <client>
+    <clientName>lavish jain</clientName>
+    <ClientCode>ll</ClientCode>
+  </client>
+  <client>
+    <clientName>jr ent.</clientName>
+    <ClientCode>jjt</ClientCode>
+  </client>
+</clients>
